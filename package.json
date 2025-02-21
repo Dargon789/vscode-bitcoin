@@ -146,7 +146,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "@libitx/shapeshifter.js": "^0.1.0",
+    "@libitx/shapeshifter.js": "^0.1.1",
     "@types/node-fetch": "^2.5.7",
     "bsv": "^2.0.0-beta.42",
     "core-js": "^3.6.5",
