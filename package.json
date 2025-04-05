@@ -148,7 +148,7 @@
   "dependencies": {
     "@libitx/shapeshifter.js": "^0.1.1",
     "@types/node-fetch": "^2.5.7",
-    "bsv": "^2.0.0-beta.42",
+    "bsv": "^2.0.10",
     "core-js": "^3.6.5",
     "node-fetch": "^2.6.7"
   }
