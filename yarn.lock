@@ -39,10 +39,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@libitx/shapeshifter.js@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@libitx/shapeshifter.js/-/shapeshifter.js-0.1.0.tgz#4c03859f6869e9c6eb29b74783e6fc585e189b90"
-  integrity sha512-64fgYgwOQwvakWx+lHVcswLWvWqsjI+XWM5OTwOMJ2B+g0tc680yeYbtmL9Av0IafrI/OCI1wGFFOZaYh/42AA==
+"@libitx/shapeshifter.js@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@libitx/shapeshifter.js/-/shapeshifter.js-0.1.1.tgz#d9260b3e87b72c4f139a6240eb38ee52d89e0a4c"
+  integrity sha512-IKawqcipqjDkCy46MZu1jOXzkFzXt0pQq6XmfU0bq7hTw0w4QvZfvT1Pesrwar0OK2PUiaPzINA4QJ7fphxDYQ==
 
 "@nodelib/fs.scandir@2.1.3":
   version "2.1.3"
